@@ -17,4 +17,9 @@ Check the Releases for Jars/maven dependencies, will most likely reupload new ve
 
 **or No files entirely.**
 
-Contact Kobo for info about it.
+# What if infamous motherfucker Kobo cannot be reached on github?
+Check my Email: nyeheh@mail.com
+
+or
+
+my Discord: ܇Kobo#5593
