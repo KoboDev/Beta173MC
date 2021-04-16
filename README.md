@@ -3,4 +3,3 @@ If mediafire goes down/shutsdown/or has experied, replace the <bukkit-repo> link
 
 With a raw github link provided here -----> 
 
-# No explanation due to legal disputes.
