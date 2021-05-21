@@ -1,25 +1,17 @@
 # Holy Shit
-This is just Kobo/Koboyashi's public jars/maven of all server types.
+First, if you are reading this, this is just me having an complete mental breakdown about this process.
 
-**DISCLAIMER: This should only be used for archival/compiling purposes, this should not be used commerically.**
+# TODO
+Decompile B1.7.3
+Convert Java/Class files to C
+Compile C files into an executable
+Make Minecraft at least go to Main Menu.
 
-Check the Releases for Jars/maven dependencies, will most likely reupload new versions if they are not updated so much.
+# COMPLETED
+*flavor text*
 
-# Different branches may contain:
+# BORKED
+*flavor text*
 
-**No info on how they work**
-
-**No releases**
-
-**No packages**
-
-**No README**
-
-**or No files entirely.**
-
-# What if infamous motherfucker Kobo cannot be reached on github?
-Check my Email: nyeheh@mail.com
-
-or
-
-my Discord: ܇Kobo#5593
+# COMPLAINTS
+*flavor text*
