@@ -1,5 +1,14 @@
-# Holy Shit
+# Kobo's at it again.
 First, if you are reading this, this is just me having an complete mental breakdown about this process.
+## FAQ
+
+What is this? Its the process of me converting Minecraft:Java into C, so I guess it would be Minecraft:C Edition.
+
+What is the point of this? Stir up something, to prove that it'll take no fucking time to convert minecraft into C.
+
+What'll feature? Minecraft, lol, honestly Java is a language to mess up in and still get something good.
+
+What did you use? MCP43(Minecraft-Coding-Pack_43/B1.7.3), Java2C, Python3.9.5
 
 # TODO
 Decompile B1.7.3
