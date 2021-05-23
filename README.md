@@ -29,3 +29,6 @@ Make Minecraft at least go to Main Menu.
 ## Pisson-3
 Installing Python-3 is easy but complicated to install, they like to put their source-code/linux build in an tar.xz, which require their own tools.
 Why the synpatic package manager won't adopt python-3 as its own package, I will never understand; But for now thats at least one step down. Why couldn't they just make it into an executable. TIP: Remember to fucking put it all in as 1 command, and not seperate. It's gonna take long, compiling is an ass, just play something while you wait. Note: its like decompiling KH2FM
+
+## MC-fuck me my asshole is going.
+Woah baby, isn't this an popular take. Minecraft is an fucking nightmare? Well it didn't used to be, but first some context. The MCPv43 was made in a time where the launcher isn't shit. A time where only 1 version existed at a time. After 1.0, Notch/Mojang decided to update the launcher, adding more versions. This was kinda the downfall until we flash-forward to 2020, where the versions folder is an shitshow, and work arounds gettings patched out. Just use MulitMC.
